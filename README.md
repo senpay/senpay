@@ -10,12 +10,13 @@
   - Testing
 
 ## Tools and technologies
-  - Python (Python3, Flask, Pandas, pytest) - 3 years
+  - Python (Python3, Flask, Pandas, pytest) - 4 years
   - Java (Java 8, Spring, Selenide) - 7 years
   - Groovy (Jenkins CI) - 1 year
   - Ruby (Rake) - 2 years
   - C# - 1 year
   - JavaScript (JQuery) - 1.5 year
+  - Azure/GCP/AWS
 
 ## Work experience
   - **Senior Software Craftsperson** at *Codurance*: May 2021 - current (London, UK)
