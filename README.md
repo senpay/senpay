@@ -18,7 +18,9 @@
   - JavaScript (JQuery) - 1.5 year
 
 ## Work experience
-  - **Senior Software Engineer** at *Xilinx*: Sep 2019 - current (Cambridge, UK)
+  - **Senior Software Craftsperson** at *Codurance*: May 2021 - current (London, UK)
+  - **Senior Software Engineer** at *Xilinx*: Jan 2021 - April 2021 (Remote, UK)
+  - **Senior Software Engineer** at *Xilinx*: Sep 2019 - Jan 2021 (Cambridge, UK)
   - **QA Automation Engineer** contractor at *Toptal*: Apr 2018 - Sep 2019 (Remote)
   - **Lead QA Automation Engineer** at WorkFusion: Jun 2017 - Apr 2018 (Belarus, Minsk)
   - **Lead Test Automation Engineer** at MeteoGroup via *EPAM Systems*: Dec 2017 - Jun 2017 (Belarus, Minsk)
