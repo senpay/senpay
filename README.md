@@ -1,6 +1,7 @@
 # Alexander Pushkarev
 
 ## Skill summary
+  - Migration to cloud
   - Monitoring and engineering productivity tools development
   - Data validation tools development
   - Refactoring/TDD/Pair programming
@@ -16,7 +17,9 @@
   - Ruby (Rake) - 2 years
   - C# - 1 year
   - JavaScript (JQuery) - 1.5 year
-  - Azure/GCP/AWS
+  - Azure (Azure DevOps, Terraform, Azure MS SQL)
+  - GCP (Google Big Query, Goodle Data Store, Google Cloud Instances)
+  - AWS
 
 ## Work experience
   - **Senior Software Craftsperson** at *Codurance*: May 2021 - current (London, UK)
