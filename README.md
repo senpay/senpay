@@ -1,29 +1,21 @@
 # Alexander Pushkarev
 
-## Skill summary
-  - Migration to cloud
-  - Monitoring and engineering productivity tools development
-  - Data validation tools development
-  - Refactoring/TDD/Pair programming
-  - Test automation solutions architecture and development
-  - CI/CD tools development
-  - QA Strategy definition and planning
-  - Testing
-
 ## Tools and technologies
   - Python (Python3, Flask, Pandas, pytest) - 4 years
   - Java (Java 8, Spring, Selenide) - 7 years
   - Groovy (Jenkins CI) - 1 year
   - Ruby (Rake) - 2 years
   - C# - 1 year
-  - JavaScript (JQuery) - 1.5 year
+  - TypeScript (0.5 year) 
+  - JavaScript (React, JQuery) - 1.5 year
   - Azure (Azure DevOps, Terraform, Azure MS SQL)
   - GCP (Google Big Query, Goodle Data Store, Google Cloud Instances)
   - AWS
 
 ## Work experience
-  - **Senior Software Craftsperson** at *Codurance*: May 2021 - current (London, UK)
-  - **Senior Software Engineer** at *Xilinx*: Jan 2021 - April 2021 (Remote, UK)
+  - **Senior Software Engineer** at *TripAdvisor*: June 2022 - current (London, UK)
+  - **Senior Software Craftsperson** at *Codurance*: May 2021 - June 2022 (London, UK)
+  - **Senior Software Engineer** at *Aire*: Jan 2021 - April 2021 (Remote, UK)
   - **Senior Software Engineer** at *Xilinx*: Sep 2019 - Jan 2021 (Cambridge, UK)
   - **QA Automation Engineer** contractor at *Toptal*: Apr 2018 - Sep 2019 (Remote)
   - **Lead QA Automation Engineer** at WorkFusion: Jun 2017 - Apr 2018 (Belarus, Minsk)
