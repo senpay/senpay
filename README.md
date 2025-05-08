@@ -1,37 +1,89 @@
 # Alexander Pushkarev
 
-## Tools and technologies
-  - Python (Python3, Flask, Pandas, pytest) - 4 years
-  - Java (Java 8, Spring, Selenide) - 7 years
-  - Groovy (Jenkins CI) - 1 year
-  - Ruby (Rake) - 2 years
-  - C# - 1 year
-  - TypeScript (0.5 year) 
-  - JavaScript (React, JQuery) - 1.5 year
-  - Azure (Azure DevOps, Terraform, Azure MS SQL)
-  - GCP (Google Big Query, Goodle Data Store, Google Cloud Instances)
-  - AWS
 
-## Work experience
-  - **Senior Software Engineer** at *TripAdvisor*: June 2022 - current (London, UK)
-  - **Senior Software Craftsperson** at *Codurance*: May 2021 - June 2022 (London, UK)
-  - **Senior Software Engineer** at *Aire*: Jan 2021 - April 2021 (Remote, UK)
-  - **Senior Software Engineer** at *Xilinx*: Sep 2019 - Jan 2021 (Cambridge, UK)
-  - **QA Automation Engineer** contractor at *Toptal*: Apr 2018 - Sep 2019 (Remote)
-  - **Lead QA Automation Engineer** at WorkFusion: Jun 2017 - Apr 2018 (Belarus, Minsk)
-  - **Lead Test Automation Engineer** at MeteoGroup via *EPAM Systems*: Dec 2017 - Jun 2017 (Belarus, Minsk)
-  - **Lead Test Automation Engineer** at Travix via *EPAM Systems*: Jan 2016 - Dec 2016 (Belarus, Minsk)
-  - **Internal trainer** at *EPAM Systems*: Aug 2014 - Jan 2016 (Belarus, Minsk)
-  - **Software Development Engineer in Test** at Expedia via *EPAM Systems*: Jul 2012 - Jan 2016 (Belarus, Minsk)
-  - **QA Engineer** at Thomson Routers via *EPAM Systems*: Aug 2010 - Jul 2012 (Belarus, Minsk)
-  - **Software Developer** at Aicnyna-Plus:  Oct 2008 - Jul 2010 (Belarus, Minsk)
+**Senior Software Engineer (Python/Java/Cloud)**  
+Client-Focused Full-Stack Engineer with 10+ years of experience building scalable systems, optimizing cloud infrastructure, and leading engineering teams. Passionate about AI/ML integration, data pipelines, and mentoring.
 
-## Education
-**Glyndŵr University**  *(2020-current)*  
-Master degree, Computer Science with Big Data Analytics  
+---
 
-**Belarusian State University**  (*2014-2016*)  
-Master degree, Human resources management/Personnel administration  
+## 🛠️ Key Skills
 
-**Belarusian State University of Informatics and Radioelectronics**  *(2009-2014)*
-Specialist degree, Electrical  and electronics engineering  
+**Languages:** Python (Flask, Pandas), Java (Spring), TypeScript (React)  
+**Cloud & DevOps:** GCP, Azure, Terraform, CI/CD (Jenkins, Azure DevOps)  
+**Data Engineering:** ETL, BigQuery, Prometheus  
+**Methodologies:** TDD, Clean Architecture, Agile/Scrum
+
+---
+
+## 💼 Professional Experience
+
+### **Roku** | Cambridge, UK | *Oct 2024 – Present*  
+**Senior Software Engineer**  
+- Led development of a greenfield Python REST service and SDK for image comparison and cognition, powering internal verification tools.  
+- Delivered AI-powered proof of concept using LLMs and local vision models, exploring product applications for automated content analysis.  
+- Coordinated work of 2 external contractors and collaborated with multiple stakeholders, ensuring technical alignment and timely delivery.  
+- Championed and built Roku’s internal Knowledge Centre for Image Verification, promoting cross-team reuse and reducing onboarding friction.
+
+---
+
+### **TripAdvisor** | London, UK | *May 2022 – Oct 2024*  
+**Senior Software Engineer**  
+- Developed production-ready, client-facing services using Java, TypeScript (React), GraphQL, and microservice architecture.  
+- Led key feature development to improve TripAdvisor’s SEO positioning, resulting in measurable increases in organic traffic and revenue.  
+- Coordinated multi-team collaboration and rollout orchestration, ensuring seamless delivery across infrastructure, frontend, and backend services.  
+- Owned feature lifecycles end-to-end: from design and implementation to staged rollout and production support.
+
+---
+
+### **Codurance** | London, UK | *May 2021 – May 2022*  
+**Senior Software Craftsperson (Consultant)**  
+- Advised fintech/healthcare clients on TDD, cloud migration (Azure, Terraform).  
+- Trained teams in Clean Architecture, BDD.  
+- Provided internal and external code review services.
+
+---
+
+### **Xilinx** | Cambridge, UK | *Sep 2019 – Jan 2021*  
+**Senior Software Engineer**  
+- Led development of CI/CD and monitoring tools using Python, Prometheus, and Jenkins.  
+- Built the Jenkins Monitoring Service from scratch, improving build visibility and reliability.  
+- Delivered engineering productivity enhancements and internal tooling for hardware-software integration.
+
+---
+
+### **Toptal (Contractor)** | Remote | *Apr 2018 – Sep 2019*  
+**QA Automation Engineer (DevOps/Data Engineering Focus)**  
+- Developed ETL and Data Warehouse validation tools using Python, Flask, and BigQuery.  
+- Architected and implemented the Data Validator platform, enhancing data reliability.  
+- Coached teams on test strategy and automation best practices in distributed environments.
+
+---
+
+### **WorkFusion** | Minsk, Belarus | *Jun 2017 – Apr 2018*  
+**Lead QA Automation Engineer**  
+- Led testability refactors and automation strategy improvements for enterprise products.  
+- Designed and built the Test Balancer Service using Java and Spring, improving test efficiency.  
+- Mentored team members in modern test automation and continuous integration.
+
+---
+
+### **EPAM Systems (Various Clients)** | Minsk, Belarus | *Aug 2010 – Jun 2017*  
+**Lead Test Automation Engineer / Internal Trainer / SDET**  
+- Acted as Tech Lead on multiple client projects including Expedia, Travix, and MeteoGroup.  
+- Built and maintained test automation frameworks using Java, Spring, Selenium, and .NET.  
+- Trained junior engineers, improved test architecture, and delivered quality tooling in domains like travel, weather, and finance.
+
+---
+
+## 🎓 Education
+
+**Master’s in Computer Science (Big Data Analytics)** — Glyndŵr University | *2020–2024*  
+**Master’s in Human Resources Management** — Belarusian State University | *2014–2016*
+
+---
+
+## 🔬 Technical Interests
+
+- Cloud-native architectures (GCP/Azure)  
+- Applied AI/ML in production systems  
+- Developer productivity tools
