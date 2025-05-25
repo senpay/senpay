@@ -2,15 +2,20 @@
 
 
 **Senior Software Engineer (Python/Java/Cloud)**  
-Client-Focused Full-Stack Engineer with 10+ years of experience building scalable systems, optimizing cloud infrastructure, and leading engineering teams. Passionate about AI/ML integration, data pipelines, and mentoring.
+*Client-Focused Full-Stack Engineer with 10+ years of experience building scalable systems, optimizing cloud infrastructure, and leading engineering teams.*
+
+*Passionate about AI/ML integration, LLM applications, and data pipeline automation, with a track record of delivering robust solutions in fast-paced environments.*
+
+*Strong mentor with a focus on Cloud-Native development and data-driven architectures.*
+
 
 ---
 
 ## 🛠️ Key Skills
 
-**Languages:** Python (Flask, Pandas), Java (Spring), TypeScript (React)  
-**Cloud & DevOps:** GCP, Azure, Terraform, CI/CD (Jenkins, Azure DevOps)  
-**Data Engineering:** ETL, BigQuery, Prometheus  
+**Languages:** Python (Flask, Pandas, PyTorch/TensorFlow), Java (Spring), TypeScript (React) 
+**Cloud & DevOps:** GCP, Azure, AWS, Terraform, CI/CD (Jenkins, Azure DevOps)  
+**Data Engineering:** ETL, BigQuery, LLM integration, Prompt Engineering, Prometheus 
 **Methodologies:** TDD, Clean Architecture, Agile/Scrum
 
 ---
