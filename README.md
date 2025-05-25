@@ -13,9 +13,12 @@
 
 ## 🛠️ Key Skills
 
-**Languages:** Python (Flask, Pandas, PyTorch/TensorFlow), Java (Spring), TypeScript (React) 
+**Languages:** Python (Flask, Pandas, PyTorch/TensorFlow), Java (Spring), TypeScript (React)
+
 **Cloud & DevOps:** GCP, Azure, AWS, Terraform, CI/CD (Jenkins, Azure DevOps)  
+
 **Data Engineering:** ETL, BigQuery, LLM integration, Prompt Engineering, Prometheus 
+
 **Methodologies:** TDD, Clean Architecture, Agile/Scrum
 
 ---
